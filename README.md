@@ -1,6 +1,6 @@
-# Fun Facts (Website)
+# Fun Facts (API)
 
-Fun Facts (Website) is a Node.js + Express server. The main feature is the API, which serves up short facts. Along with the API is a simple front-end page which utilizes the API.
+Fun Facts (API) is a Node.js + Express server. The API serves up short facts.
 
 ## Current API Version: [v1](https://github.com/NathanHeffley/FunFactsWebsite/wiki/v1)
 
@@ -14,10 +14,14 @@ Learn more about using the API in the Wiki.
 
 - Retrieve a fact with a specific ID at /api/v1/fact/{id}
 
-### Also check out the Fun Facts (App) project for Android
+### Also check out the Fun Facts Client Projects
 
-Alongside this API and site development, an Android app that provides on-the-go Fun Facts is also available as an app for Android. [Check out the project here!](https://github.com/NathanHeffley/FunFactsAndroid)
+Alongside this API, a Website for friendly fun fact reading and an Android app that provides on-the-go fun facts are also available.
+
+[Check out the Website project here!](https://github.com/NathanHeffley/FunFactsWebsite)
+
+[Check out the Android project here!](https://github.com/NathanHeffley/FunFactsAndroid)
 
 ## License
 
-Fun Facts (Website) is licensed under the [ISC License](https://opensource.org/licenses/ISC)
+Fun Facts (API) is licensed under the [ISC License](https://opensource.org/licenses/ISC)
